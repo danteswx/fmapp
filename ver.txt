@@ -1,0 +1,7 @@
+OK|2.8.5|手機-32|内测版|mobile-armeabi_v7a.apk|https://raw.githubusercontent.com/lystv/fmapp/d57df5bcdfcf34e699d76324d4b5ca8178cda689/apk/dev/mobile-armeabi_v7a.apk
+OK|2.8.5|手機-64|内测版|mobile-arm64_v8a.apk|https://raw.githubusercontent.com/lystv/fmapp/d57df5bcdfcf34e699d76324d4b5ca8178cda689/apk/dev/mobile-arm64_v8a.apk
+OK|2.8.5|電視-32|内测版|leanback-armeabi_v7a.apk|https://raw.githubusercontent.com/lystv/fmapp/d57df5bcdfcf34e699d76324d4b5ca8178cda689/apk/dev/leanback-armeabi_v7a.apk
+OK|2.8.5|電視-64|内测版|leanback-arm64_v8a.apk|https://raw.githubusercontent.com/lystv/fmapp/d57df5bcdfcf34e699d76324d4b5ca8178cda689/apk/dev/leanback-arm64_v8a.apk
+OK|2.8.5|電視x5离线版|内测版|电视版-X5离线.apk|https://raw.githubusercontent.com/lystv/fmapp/d57df5bcdfcf34e699d76324d4b5ca8178cda689/apk/dev/电视版-X5离线.apk
+OK|2.8.5|海信電視专版|内测版|海信专版.apk|https://raw.githubusercontent.com/lystv/fmapp/d57df5bcdfcf34e699d76324d4b5ca8178cda689/apk/dev/海信专版.apk
+OK|2.5.0|電視|4.x版|leanback.apk|https://raw.githubusercontent.com/lystv/fmapp/93fd99c68e7bddc4b903a2fe12fdbd372630610b/apk/kitkat/leanback.apk
