@@ -22,9 +22,9 @@
       },
       {
         "name": "海信電視专版",
-        "url": "https://github.com/lystv/fmapp/releases/download/5.0.1/hisense.apk",
+        "url": "https://github.com/lystv/fmapp/releases/download/5.0.2/hisense.apk",
         "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-5.0.1"
+        "version": "OK-5.0.2"
       },
       {
         "name": "手機-32",
@@ -69,9 +69,9 @@
       },
       {
         "name": "海信電視专版",
-        "url": "https://github.com/lystv/fmapp/releases/download/5.0.1/hisense.apk",
+        "url": "https://github.com/lystv/fmapp/releases/download/5.0.2/hisense.apk",
         "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-5.0.1"
+        "version": "OK-5.0.2"
       },
       {
         "name": "安卓5-TV32",
@@ -87,27 +87,27 @@
       },
       {
         "name": "手機pro",
-        "url": "https://github.com/lystv/fmapp/releases/download/5.0.8-pro/mobile-pro.apk",
+        "url": "https://github.com/lystv/fmapp/releases/download/5.0.9-pro/mobile-pro.apk",
         "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-5.0.8-pro"
+        "version": "OK-5.0.9-pro"
       },
       {
         "name": "手機pro-emu",
-        "url": "https://github.com/lystv/fmapp/releases/download/5.0.8-pro/mobile-pro.apk",
+        "url": "https://github.com/lystv/fmapp/releases/download/5.0.9-pro/mobile-pro.apk",
         "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-5.0.8-pro"
+        "version": "OK-5.0.9-pro"
       },
       {
         "name": "電視pro",
-        "url": "https://github.com/lystv/fmapp/releases/download/5.0.8-pro/leanback-pro.apk",
+        "url": "https://github.com/lystv/fmapp/releases/download/5.0.9-pro/leanback-pro.apk",
         "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-5.0.8-pro"
+        "version": "OK-5.0.9-pro"
       },
       {
         "name": "電視-pro-64",
-        "url": "https://github.com/lystv/fmapp/releases/download/5.0.8-pro/leanback-pro-v8a.apk",
+        "url": "https://github.com/lystv/fmapp/releases/download/5.0.9-pro/leanback-pro-v8a.apk",
         "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-5.0.8-pro"
+        "version": "OK-5.0.9-pro"
       },
       {
         "name": "手機-32",
