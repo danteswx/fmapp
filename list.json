@@ -1,5 +1,33 @@
 [
   {
+    "name": "[FongMi-v5.5.9] leanback-arm64_v8a.apk",
+    "type": "release_asset",
+    "path": "Releases/FongMi-v5.5.9/leanback-arm64_v8a.apk",
+    "time": "2026-08-05T03:28:24Z",
+    "url": "https://github.com/danteswx/fmapp/releases/download/FongMi-v5.5.9/leanback-arm64_v8a.apk"
+  },
+  {
+    "name": "[FongMi-v5.5.9] leanback-armeabi_v7a.apk",
+    "type": "release_asset",
+    "path": "Releases/FongMi-v5.5.9/leanback-armeabi_v7a.apk",
+    "time": "2026-08-05T03:28:28Z",
+    "url": "https://github.com/danteswx/fmapp/releases/download/FongMi-v5.5.9/leanback-armeabi_v7a.apk"
+  },
+  {
+    "name": "[FongMi-v5.5.9] mobile-arm64_v8a.apk",
+    "type": "release_asset",
+    "path": "Releases/FongMi-v5.5.9/mobile-arm64_v8a.apk",
+    "time": "2026-08-05T03:28:32Z",
+    "url": "https://github.com/danteswx/fmapp/releases/download/FongMi-v5.5.9/mobile-arm64_v8a.apk"
+  },
+  {
+    "name": "[FongMi-v5.5.9] mobile-armeabi_v7a.apk",
+    "type": "release_asset",
+    "path": "Releases/FongMi-v5.5.9/mobile-armeabi_v7a.apk",
+    "time": "2026-08-05T03:28:36Z",
+    "url": "https://github.com/danteswx/fmapp/releases/download/FongMi-v5.5.9/mobile-armeabi_v7a.apk"
+  },
+  {
     "name": "[FongMi-v5.5.8] leanback-arm64_v8a.apk",
     "type": "release_asset",
     "path": "Releases/FongMi-v5.5.8/leanback-arm64_v8a.apk",
